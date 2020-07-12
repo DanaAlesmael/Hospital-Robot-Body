@@ -9,3 +9,5 @@ The main focuses when designing a wheeled robot to use in hospitals were:
 * The part where the robot's wheels should be attached to was kept the same as in the original design to save time and to focus more on the body's design. 
 
 
+
+* ScreenShots files represent the original design as followed in my hand sketch design. However, similar ideas came to my mind while designing. For example, using an open source medical icon instead of doing it from scratch would not only save time but also enhance the robot's quality.   
