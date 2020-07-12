@@ -11,3 +11,4 @@ The main focuses when designing a wheeled robot to use in hospitals were:
 
 
 * ScreenShots files represent the original design as followed in my hand sketch design. However, similar ideas came to my mind while designing. For example, using an open source medical icon instead of doing it from scratch would not only save time but also enhance the robot's quality.   
+* Some files were compressed (as Zip file) due to their large size. [Example of these files are: IconF.stl and HospitalAll.stl]. 
